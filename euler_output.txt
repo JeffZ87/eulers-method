@@ -1,0 +1,1884 @@
+Start at: 2022-02-09 12:16:17.341682
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 1/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 1/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 3/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 1/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 1/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 3/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 7/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.341682
+diff_eq_val call: 2022-02-09 12:16:17.341682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.341682
+
+
+At x_val 2/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 9/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 1/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 11/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 3/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 13/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 7/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 3/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 4/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 17/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 9/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.342683
+diff_eq_val call: 2022-02-09 12:16:17.342683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.342683
+
+
+At x_val 19/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 1/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 21/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 11/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 23/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 6/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 1/4
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 13/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 27/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 7/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.343682
+
+
+At x_val 29/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.343682
+diff_eq_val call: 2022-02-09 12:16:17.343682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 3/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 31/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 8/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 33/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 17/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 7/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 9/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 37/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 19/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.344682
+diff_eq_val call: 2022-02-09 12:16:17.344682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.344682
+
+
+At x_val 39/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 2/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 41/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 21/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 43/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 11/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 9/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 23/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 47/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.345682
+
+
+At x_val 12/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.345682
+diff_eq_val call: 2022-02-09 12:16:17.345682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 49/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 1/2
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 51/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 13/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 53/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 27/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 11/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 14/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 57/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.346682
+diff_eq_val call: 2022-02-09 12:16:17.346682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.346682
+
+
+At x_val 29/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 59/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 3/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 61/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 31/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 63/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 16/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 13/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 33/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 67/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.347682
+diff_eq_val call: 2022-02-09 12:16:17.347682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.347682
+
+
+At x_val 17/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 69/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 7/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 71/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 18/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 73/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 37/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 3/4
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 19/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 77/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.348682
+diff_eq_val call: 2022-02-09 12:16:17.348682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.348682
+
+
+At x_val 39/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 79/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 4/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 81/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 41/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 83/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 21/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 17/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.349682
+diff_eq_val call: 2022-02-09 12:16:17.349682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.349682
+
+
+At x_val 43/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 87/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 22/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 89/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 9/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 91/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 23/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 93/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 47/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 19/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.350682
+diff_eq_val call: 2022-02-09 12:16:17.350682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.350682
+
+
+At x_val 24/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 97/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 49/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 99/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 1
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 101/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 51/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 103/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 26/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 21/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.351682
+diff_eq_val call: 2022-02-09 12:16:17.351682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.351682
+
+
+At x_val 53/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 107/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 27/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 109/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 11/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 111/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 28/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 113/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 57/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 23/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.352682
+diff_eq_val call: 2022-02-09 12:16:17.352682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.352682
+
+
+At x_val 29/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 117/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 59/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 119/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 6/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 121/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 61/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 123/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.353682
+
+
+At x_val 31/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.353682
+diff_eq_val call: 2022-02-09 12:16:17.353682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 5/4
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 63/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 127/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 32/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 129/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 13/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 131/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 33/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 133/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.354682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.354682
+
+
+At x_val 67/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.354682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 27/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 34/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 137/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 69/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 139/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 7/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 141/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 71/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 143/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.355682
+
+
+At x_val 36/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.355682
+diff_eq_val call: 2022-02-09 12:16:17.355682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 29/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 73/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 147/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 37/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 149/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 3/2
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 151/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 38/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 153/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.356682
+diff_eq_val call: 2022-02-09 12:16:17.356682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.356682
+
+
+At x_val 77/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 31/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 39/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 157/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 79/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 159/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 8/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 161/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 81/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.357683
+diff_eq_val call: 2022-02-09 12:16:17.357683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.357683
+
+
+At x_val 163/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 41/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 33/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 83/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 167/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 42/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 169/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 17/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 171/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 43/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.358682
+diff_eq_val call: 2022-02-09 12:16:17.358682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.358682
+
+
+At x_val 173/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 87/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 7/4
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 44/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 177/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 89/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 179/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 9/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 181/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 91/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.359683
+diff_eq_val call: 2022-02-09 12:16:17.359683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.359683
+
+
+At x_val 183/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 46/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 37/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 93/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 187/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 47/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 189/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 19/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 191/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 48/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.360682
+diff_eq_val call: 2022-02-09 12:16:17.360682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.360682
+
+
+At x_val 193/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 97/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 39/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 49/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 197/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 99/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 199/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 2
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 201/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.361683
+diff_eq_val call: 2022-02-09 12:16:17.361683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.361683
+
+
+At x_val 101/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 203/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 51/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 41/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 103/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 207/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 52/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 209/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 21/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 211/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.362682
+diff_eq_val call: 2022-02-09 12:16:17.362682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.362682
+
+
+At x_val 53/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 213/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 107/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 43/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 54/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 217/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.363682
+diff_eq_val call: 2022-02-09 12:16:17.363682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.363682
+
+
+At x_val 109/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.364682
+diff_eq_val call: 2022-02-09 12:16:17.364682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.364682
+
+
+At x_val 219/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.364682
+diff_eq_val call: 2022-02-09 12:16:17.364682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.364682
+
+
+At x_val 11/5
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.365682
+diff_eq_val call: 2022-02-09 12:16:17.365682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.365682
+
+
+At x_val 221/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.367682
+diff_eq_val call: 2022-02-09 12:16:17.367682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.367682
+
+
+At x_val 111/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.373683
+diff_eq_val call: 2022-02-09 12:16:17.373683
+Start diff_eq_val calculation: 2022-02-09 12:16:17.373683
+
+
+At x_val 223/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.388682
+diff_eq_val call: 2022-02-09 12:16:17.388682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.388682
+
+
+At x_val 56/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.426682
+diff_eq_val call: 2022-02-09 12:16:17.426682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.426682
+
+
+At x_val 9/4
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.534682
+diff_eq_val call: 2022-02-09 12:16:17.534682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.534682
+
+
+At x_val 113/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:17.835682
+diff_eq_val call: 2022-02-09 12:16:17.835682
+Start diff_eq_val calculation: 2022-02-09 12:16:17.835682
+
+
+At x_val 227/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:18.698683
+diff_eq_val call: 2022-02-09 12:16:18.698683
+Start diff_eq_val calculation: 2022-02-09 12:16:18.698683
+
+
+At x_val 57/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:21.217683
+diff_eq_val call: 2022-02-09 12:16:21.217683
+Start diff_eq_val calculation: 2022-02-09 12:16:21.217683
+
+
+At x_val 229/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:28.830684
+diff_eq_val call: 2022-02-09 12:16:28.830684
+Start diff_eq_val calculation: 2022-02-09 12:16:28.830684
+
+
+At x_val 23/10
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:16:53.045684
+diff_eq_val call: 2022-02-09 12:16:53.045684
+Start diff_eq_val calculation: 2022-02-09 12:16:53.045684
+
+
+At x_val 231/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:17:59.922683
+diff_eq_val call: 2022-02-09 12:17:59.922683
+Start diff_eq_val calculation: 2022-02-09 12:17:59.922683
+
+
+At x_val 58/25
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:21:15.701708
+diff_eq_val call: 2022-02-09 12:21:15.701708
+Start diff_eq_val calculation: 2022-02-09 12:21:15.701708
+
+
+At x_val 233/100
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 12:31:21.444380
+diff_eq_val call: 2022-02-09 12:31:21.444380
+Start diff_eq_val calculation: 2022-02-09 12:31:21.444380
+
+
+At x_val 117/50
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 13:01:32.689535
+diff_eq_val call: 2022-02-09 13:01:32.689535
+Start diff_eq_val calculation: 2022-02-09 13:01:32.689535
+
+
+At x_val 47/20
+
+
+Start euler_function.y_val calculation and loop: 2022-02-09 14:32:05.300214
+diff_eq_val call: 2022-02-09 14:32:05.300214
+Start diff_eq_val calculation: 2022-02-09 14:32:05.300214
